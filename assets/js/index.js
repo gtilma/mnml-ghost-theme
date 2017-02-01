@@ -25,7 +25,7 @@ function pullPullQuotes(){
   }
 }
 
-document.addEventListener('DOMContentLoaded', pullPullQuotes());
+document.addEventListener('DOMContentLoaded', pullPullQuotes);
 
 
 
